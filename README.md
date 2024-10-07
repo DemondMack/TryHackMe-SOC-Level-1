@@ -111,11 +111,11 @@ Sysinternals:  <br/>
 <p>I used Sysinternals tools like TCPView for monitoring network connections, Process Explorer for analyzing running processes, and Autoruns to check for suspicious startup entries. These tools helped streamline system analysis and enhance threat detection.</p>
 <br />
 <br />
-<br />
-Ubuntu SSH server Authentication Logs:  <br/>
-<img src="https://i.imgur.com/ZgyesUv.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/SzLhOqG.jpeg" height="80%" width="80%" />
-<p>Deployed an Ubuntu server on Vultr for monitoring SSH authentication logs. Configured the server, updated repositories, and used PowerShell to SSH into the instance. Accessed authentication logs in /var/log/auth.log to identify failed login attempts, specifically filtering for failed root login attempts. Used the grep and cut commands to extract and display the failed login IP addresses. Prepared the server for monitoring failed brute-force attacks and planned to install the Elastic Agent for log forwarding to Elasticsearch.</p>
+Sysmon:  <br/>
+<img src="https://i.imgur.com/JwzeLPk.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/vbHJklz.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/5nrebYL.jpeg" height="80%" width="80%" />
+<p>I used Sysmon to monitor key events like Process Creation (Event ID 1), Network Connection (Event ID 3), Image Load (Event ID 7), and others to detect anomalies such as suspicious processes, DLL injection, and unauthorized access attempts. By leveraging Sysmon with well-configured rulesets, I filtered out noise and focused on actionable alerts, forwarding them to SIEM for further analysis and investigation.</p>
 <br />
 <br />
 <br />

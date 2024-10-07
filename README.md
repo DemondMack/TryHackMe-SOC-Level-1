@@ -102,9 +102,10 @@ Tshark:  <br/>
 <img src="https://i.imgur.com/mGw0SUS.jpeg" height="80%" width="80%" />
 <img src="https://i.imgur.com/NJ6USna.jpeg" height="80%" width="80%" />
 <p>I used TShark, the command-line version of Wireshark, to analyze network traffic by filtering, capturing, and processing packets. TShark's flexibility allowed me to perform in-depth analysis and automate tasks via command-line tools like capinfos, grep, and cut. I leveraged capture and display filters for live and post-capture analysis, using the -f parameter for capture filters and -Y for display filters to narrow down traffic efficiently. Additionally, I utilized options such as -r to read pcap files, -w to write output, and -x for detailed hex and ASCII views of packets. TShark provided a streamlined, efficient way to analyze packets and automate repetitive tasks in network investigations.</p>
-<br />
-<br />
-<br />
+
+<h2>Endpoint Security Monitoring:</h2>
+
+
 Intergrated Sysmon & Microsoft Defender:  <br/>
 <img src="https://i.imgur.com/9FOaHUI.jpeg" height="80%" width="80%" />
 <img src="https://i.imgur.com/rOaZ4Js.jpeg" height="80%" width="80%" />

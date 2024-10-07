@@ -36,12 +36,14 @@ Gained practical experience in critical SOC functions through hands-on labs, foc
 - <b>Network Traffic Analysis Environments (Snort, Zeek, Wireshark, TShark)</b>
 - <b>Digital Forensics Labs (Autopsy, Redline, KAPE, Velociraptor)</b>
 
-<h2>Project walk-through:</h2>
+<h2>Learning Path walk-through:</h2>
 
 <p align="center">
-VPN Network Diagram: <br/>
-<img src="https://i.imgur.com/9bgnKz0.jpeg" height="80%" width="80%" alt="Virtual Private Network Diagram"/>
-          <p>   Created a network diagram to show the virtual private network and the connections within the network</p>  
+Pyramid Of Pain: <br/>
+<img src="https://i.imgur.com/HsvyzIw.jpeg" height="80%" width="80%" />
+<br/>          
+<br/> 
+Learned to apply key cyber defense frameworks such as the Pyramid of Pain, MITRE ATT&CK, Cyber Kill Chain, and Unified Kill Chain to enhance threat detection, incident response, and threat hunting capabilities. Gained insights into the significance of different Indicators of Compromise (IOCs), such as hashes, IP addresses, domain names, and artifacts, in hindering adversaries' attack strategies. Also explored how advanced techniques like Fast Flux and User-Agent strings are used by attackers to evade detection.</p>  
 <br />
 <br />
 External Connections to VPN:  <br/>

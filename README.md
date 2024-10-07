@@ -85,6 +85,8 @@ Wireshark:  <br/>
 <br />
 Snort:  <br/>
 <img src="https://i.imgur.com/2G7j9vD.jpeg" height="50%" width="50%" />
+<img src="https://i.imgur.com/H7T92bu.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/CZXJ78Z.jpeg" height="80%" width="80%" />
 <p>I used Snort to analyze network traffic, detect ICMP packets, and apply custom rules for threat detection. By running Snort in Sniffer, Logger, and IDS/IPS modes, I monitored live traffic, generated alerts, and logged packets for deeper analysis, demonstrating its key functionality in identifying and preventing malicious activity in a network environment.</p>
 <br />
 <br />

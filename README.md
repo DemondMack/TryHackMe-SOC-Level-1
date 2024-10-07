@@ -77,17 +77,19 @@ Developed skills in YARA, creating rules for malware detection through pattern m
 <h2>Network Security and Traffic Analysis:</h2>
 
 
+Wireshark:  <br/>
+<img src="https://i.imgur.com/pRK5xrn.jpeg" height="50%" width="50%" />
+<img src="https://i.imgur.com/6FlrcPE.jpeg" height="80%" width="80%" />
+<p>In Wireshark, I used the Statistics menu to analyze traffic patterns and key details like resolved addresses, protocol hierarchy, conversations, and endpoints to identify significant network events. By applying capture and display filters, I filtered traffic based on IP, TCP, UDP, HTTP, and DNS to isolate relevant packets. Advanced filters such as contains, matches, and in were used to refine searches for specific strings, ports, and packet types. I also utilized features like bookmarks, filter buttons, and profiles for efficient reuse of complex filters during network traffic investigations.</p>
+<br />
+<br />
+
+
 Snort:  <br/>
 <img src="https://i.imgur.com/2G7j9vD.jpeg" height="50%" width="50%" />
 <p>I used Snort to analyze network traffic, detect ICMP packets, and apply custom rules for threat detection. By running Snort in Sniffer, Logger, and IDS/IPS modes, I monitored live traffic, generated alerts, and logged packets for deeper analysis, demonstrating its key functionality in identifying and preventing malicious activity in a network environment.</p>
 <br />
 <br />
-<br />
-Fleet Server with Elastic Agent and Windows Server enrolled:  <br/>
-<img src="https://i.imgur.com/uXz0c3B.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/ypcURGK.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/T5iRfce.jpeg" height="80%" width="80%" />
-<p>Deployed an Ubuntu server to act as the Fleet Server in the cloud and configured it to manage agents centrally. Installed and configured the Elastic Agent on the Fleet Server and addressed connection issues by adjusting firewall rules for both the Fleet Server and Elasticsearch (port 9200 and 8220). Successfully enrolled the Windows Server into the Fleet, allowing for system logs and metrics collection. Finally, captured initial authentication logs from the Windows server, verifying the setup.</p>
 
 
 

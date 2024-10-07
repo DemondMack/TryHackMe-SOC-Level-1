@@ -125,11 +125,10 @@ osquery:  <br/>
 <br />
 <br />
 Wazuh: <br/>
-<img src="https://i.imgur.com/5z9BUMl.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/cHHsWah.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/BpgyWXU.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/U0typtC.jpeg" height="80%" width="80%" />
-<p>Created an attack diagram using draw.io to map out a cyber attack involving a Mythic C2 server, Windows server, and an attacker laptop running Kali Linux. The process included six phases: RDP brute force for initial access, running discovery commands, disabling Windows Defender for defense evasion, downloading and executing a Mythic agent via PowerShell for execution, establishing a C2 session, and exfiltrating a fake password file (passwords.txt). This diagram served as a visual guide for planning and executing the attack path in a controlled environment. Now it's time to attack!!!</p>
+<img src="https://i.imgur.com/m9XdoeT.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/fCGPwkc.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/U0cPhuY.jpeg" height="80%" width="80%" />
+<p>I used Wazuh, an open-source EDR solution, to monitor endpoint activity and detect security threats across Windows and Linux systems. By deploying agents, I collected logs on processes like authentication, file access, and vulnerabilities, using Wazuh's rule-based alerts to identify suspicious events. I integrated Sysmon to track key system processes and enhanced detection. Additionally, I leveraged Wazuh’s API for retrieving data and generating reports, enabling detailed analysis of security events.</p>
 <br />
 <br />
 <br />

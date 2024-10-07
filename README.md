@@ -36,7 +36,7 @@ Gained practical experience in critical SOC functions through hands-on labs, foc
 - <b>Network Traffic Analysis Environments (Snort, Zeek, Wireshark, TShark)</b>
 - <b>Digital Forensics Labs (Autopsy, Redline, KAPE, Velociraptor)</b>
 
-<h2>Learning Path walk-through:</h2>
+<h2>Frameworks:</h2>
 
 <p align="center">
 Pyramid Of Pain: <br/>
@@ -52,9 +52,10 @@ Cyber Kill Chain:  <br/>
 <br />
 <br />
 <br />
-Ubuntu VM deployed with Elasticsearch: <br/>
-<img src="https://i.imgur.com/pvVYyv2.jpeg" height="80%" width="80%" alt="VPC w/ Ubuntu VM "/>
-<p>In this stage, I created a Virtual Private Cloud (VPC) in Vultr, deployed an Ubuntu virtual machine, and installed Elasticsearch to serve as part of the ELK Stack. After configuring the Elasticsearch settings for external access, I implemented firewall rules to restrict access to the machine, ensuring only authorized connections. Finally, I started the Elasticsearch service and verified that it was running successfully.</p>
+MITRE ATT&CK: <br/>
+<img src="https://i.imgur.com/2k5QlAc.jpeg" height="80%" width="80%" />
+
+<p>Gained an understanding of the MITRE Corporation’s cybersecurity contributions, including the ATT&CK® framework, which maps adversary TTPs (Tactics, Techniques, and Procedures) to real-world attacks. Explored additional MITRE resources such as the Cyber Analytics Repository (CAR), ENGAGE for adversary deception, and D3FEND for mapping countermeasures. Learned how these tools help defenders detect and respond to threats, simulate adversary behavior, and improve security postures through threat-informed defense strategies.</p>
 <br />
 <br />
 <br />

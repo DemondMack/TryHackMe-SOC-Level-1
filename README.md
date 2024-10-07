@@ -40,14 +40,14 @@ Gained practical experience in critical SOC functions through hands-on labs, foc
 
 <p align="center">
 Pyramid Of Pain: <br/>
-<img src="https://i.imgur.com/HsvyzIw.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/HsvyzIw.jpeg" height="50%" width="50%" />
 <br/>          
 <br/> 
 <p>Learned to apply key cyber defense frameworks such as the Pyramid of Pain, MITRE ATT&CK, Cyber Kill Chain, and Unified Kill Chain to enhance threat detection, incident response, and threat hunting capabilities. Gained insights into the significance of different Indicators of Compromise (IOCs), such as hashes, IP addresses, domain names, and artifacts, in hindering adversaries' attack strategies. Also explored how advanced techniques like Fast Flux and User-Agent strings are used by attackers to evade detection.</p>  
 <br />
 <br />
 Cyber Kill Chain:  <br/>
-<img src="https://i.imgur.com/7w6Ib1z.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/7w6Ib1z.jpeg" height="70%" width="70%" />
 <p>Learned the phases of the Cyber Kill Chain, a framework used to understand and defend against cyber attacks such as ransomware, breaches, and APTs. Explored each stage of an attack, from reconnaissance and weaponization to delivery, exploitation, and command and control (C2). Gained insights into techniques like phishing, USB drops, and zero-day exploits, as well as how attackers maintain persistence and move laterally through networks. Learned how defenders can recognize and disrupt attacks at various stages to prevent adversaries from achieving their objectives.</p>
 <br />
 <br />
@@ -61,15 +61,17 @@ MITRE ATT&CK: <br/>
 
 
 Cyber Threat Intel Process: <br/>
-<img src="https://i.imgur.com/0fHt5Xc.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/0fHt5Xc.jpeg" height="50%" width="50%" />
 <p>Learned the fundamentals of Cyber Threat Intelligence (CTI), including the collection, processing, and analysis of data to identify adversaries, their tactics, and indicators of compromise. Explored the four main types of threat intelligence—strategic, technical, tactical, and operational—used to inform security teams and enhance decision-making. Gained insights into the CTI lifecycle, from defining objectives and collecting data to processing, analyzing, and disseminating actionable intelligence to stakeholders. Also reviewed industry standards and frameworks such as MITRE ATT&CK, STIX, and the Cyber Kill Chain for organizing and sharing threat intelligence.</p>
 <br />
 <br />
 <br />
-Kibana installation & setup:  <br/>
-<img src="https://i.imgur.com/pioyqbu.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/yh4XEe9.jpeg" height="80%" width="80%" />
-<p>Downloaded and installed Kibana on the existing Ubuntu virtual machine, then configured Kibana by updating the server port and host in its configuration file. Enabled and started Kibana as a service. Generated an Elasticsearch enrollment token and used it to connect Kibana to Elasticsearch. Adjusted firewall rules to allow access to port 5601, then logged into Kibana successfully. Finally, configured encryption keys for Kibana to ensure persistent settings for saved objects and security.</p>
+CTI Tools:  <br/>
+<img src="https://i.imgur.com/J4blpIn.jpeg" height="25%" width="25%" />
+<img src="https://i.imgur.com/auY89pd.jpeg" height="25%" width="25%" />
+<img src="https://i.imgur.com/xqD9z7R.jpeg" height="25%" width="25%" />
+<img src="https://i.imgur.com/q3diFsB.jpeg" height="25%" width="25%" />
+<p>Learned about key cyber threat analysis tools like Urlscan.io and Abuse.ch, which assist in scanning, analyzing, and tracking malicious websites, malware, and botnets. Urlscan.io automates the analysis of URLs to identify IPs, domains, and redirects, while Abuse.ch provides platforms such as MalwareBazaar and Feodo Tracker to share and track malware samples and botnet C2 infrastructures. Additionally, explored PhishTool for email analysis, uncovering phishing indicators, and Cisco Talos Intelligence for investigating threat indicators, vulnerabilities, and email traffic patterns to enhance threat detection and prevention.</p>
 <br />
 <br />
 <br />

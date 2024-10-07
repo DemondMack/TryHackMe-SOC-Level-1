@@ -65,15 +65,16 @@ Cyber Threat Intel Process: <br/>
 <p>Learned the fundamentals of Cyber Threat Intelligence (CTI), including the collection, processing, and analysis of data to identify adversaries, their tactics, and indicators of compromise. Explored the four main types of threat intelligence—strategic, technical, tactical, and operational—used to inform security teams and enhance decision-making. Gained insights into the CTI lifecycle, from defining objectives and collecting data to processing, analyzing, and disseminating actionable intelligence to stakeholders. Also reviewed industry standards and frameworks such as MITRE ATT&CK, STIX, and the Cyber Kill Chain for organizing and sharing threat intelligence.</p>
 <br />
 <br />
-<br />
 CTI Tools:  <br/>
 <img src="https://i.imgur.com/J4blpIn.jpeg" height="25%" width="25%" />
 <img src="https://i.imgur.com/auY89pd.jpeg" height="25%" width="25%" />
 <img src="https://i.imgur.com/xqD9z7R.jpeg" height="25%" width="25%" />
 <img src="https://i.imgur.com/q3diFsB.jpeg" height="25%" width="25%" />
-<p>Learned about key cyber threat analysis tools like Urlscan.io and Abuse.ch, which assist in scanning, analyzing, and tracking malicious websites, malware, and botnets. Urlscan.io automates the analysis of URLs to identify IPs, domains, and redirects, while Abuse.ch provides platforms such as MalwareBazaar and Feodo Tracker to share and track malware samples and botnet C2 infrastructures. Additionally, explored PhishTool for email analysis, uncovering phishing indicators, and Cisco Talos Intelligence for investigating threat indicators, vulnerabilities, and email traffic patterns to enhance threat detection and prevention.</p>
-<br />
-<br />
+<p>Gained proficiency in cyber threat analysis tools like Urlscan.io and Abuse.ch for scanning and tracking malicious websites, malware, and botnets. Explored PhishTool for email phishing detection and Cisco Talos Intelligence for analyzing threat indicators and vulnerabilities.
+
+Developed skills in YARA, creating rules for malware detection through pattern matching and integrating it with tools like Cuckoo Sandbox. Additionally, explored key CTI platforms such as OpenCTI and MISP for managing, analyzing, and sharing threat intelligence. These platforms integrate with tools like TheHive and leverage frameworks like MITRE ATT&CK to support malware analysis and threat investigations across trusted communities.</p>
+
+<h2>Network Security and Traffic Analysis:</h2>
 <br />
 Windows Server seperated from VPC:  <br/>
 <img src="https://i.imgur.com/o2grXTy.jpeg" height="80%" width="80%" />

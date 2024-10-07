@@ -28,10 +28,13 @@ Gained practical experience in critical SOC functions through hands-on labs, foc
 
 <h2>Environments Used </h2>
 
-- <b>Vultr Cloud</b>
-- <b>Kali Linux</b>
-- <b>Ubuntu</b>
-- <b>Windows</b>
+- <b>Virtualized Labs</b>
+- <b>Windows Systems (for endpoint security and forensic analysis)</b>
+- <b>Linux Systems (for forensic analysis and network traffic monitoring)</b>
+- <b>Cloud-based Threat Intelligence Platforms (MISP, OpenCTI)</b>
+- <b>Simulated SOC Environments for incident response and SIEM tasks</b>
+- <b>Network Traffic Analysis Environments (Snort, Zeek, Wireshark, TShark)</b>
+- <b>Digital Forensics Labs (Autopsy, Redline, KAPE, Velociraptor)</b>
 
 <h2>Project walk-through:</h2>
 

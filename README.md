@@ -129,9 +129,8 @@ Wazuh: <br/>
 <img src="https://i.imgur.com/fCGPwkc.jpeg" height="80%" width="80%" />
 <img src="https://i.imgur.com/U0cPhuY.jpeg" height="80%" width="80%" />
 <p>I used Wazuh, an open-source EDR solution, to monitor endpoint activity and detect security threats across Windows and Linux systems. By deploying agents, I collected logs on processes like authentication, file access, and vulnerabilities, using Wazuh's rule-based alerts to identify suspicious events. I integrated Sysmon to track key system processes and enhanced detection. Additionally, I leveraged Wazuh’s API for retrieving data and generating reports, enabling detailed analysis of security events.</p>
-<br />
-<br />
-<br />
+
+<h2>Security Information and Event Management:</h2>
 
 
 Mythic Server Intialization: <br/>

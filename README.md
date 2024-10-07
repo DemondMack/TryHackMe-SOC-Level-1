@@ -106,10 +106,9 @@ Tshark:  <br/>
 <h2>Endpoint Security Monitoring:</h2>
 
 
-Intergrated Sysmon & Microsoft Defender:  <br/>
-<img src="https://i.imgur.com/9FOaHUI.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/rOaZ4Js.jpeg" height="80%" width="80%" />
-<p>Added integrations for Sysmon and Microsoft Defender into the Elasticsearch instance, allowing the collection of logs from custom Windows Event channels. Configured specific event IDs for ingestion, such as 1116, 1117, and 50001, for more targeted logging. Troubleshooting included ensuring connectivity between agents and Elasticsearch by allowing incoming connections on port 9200. Verified Sysmon and Defender logs were successfully ingested into the instance.</p>
+Sysinternals:  <br/>
+<img src="https://i.imgur.com/ZsJEkqV.jpeg" height="80%" width="80%" />
+<p>I used Sysinternals tools like TCPView for monitoring network connections, Process Explorer for analyzing running processes, and Autoruns to check for suspicious startup entries. These tools helped streamline system analysis and enhance threat detection.</p>
 <br />
 <br />
 <br />

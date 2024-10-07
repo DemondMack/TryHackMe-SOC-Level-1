@@ -43,12 +43,12 @@ Pyramid Of Pain: <br/>
 <img src="https://i.imgur.com/HsvyzIw.jpeg" height="80%" width="80%" />
 <br/>          
 <br/> 
-Learned to apply key cyber defense frameworks such as the Pyramid of Pain, MITRE ATT&CK, Cyber Kill Chain, and Unified Kill Chain to enhance threat detection, incident response, and threat hunting capabilities. Gained insights into the significance of different Indicators of Compromise (IOCs), such as hashes, IP addresses, domain names, and artifacts, in hindering adversaries' attack strategies. Also explored how advanced techniques like Fast Flux and User-Agent strings are used by attackers to evade detection.</p>  
+<p>Learned to apply key cyber defense frameworks such as the Pyramid of Pain, MITRE ATT&CK, Cyber Kill Chain, and Unified Kill Chain to enhance threat detection, incident response, and threat hunting capabilities. Gained insights into the significance of different Indicators of Compromise (IOCs), such as hashes, IP addresses, domain names, and artifacts, in hindering adversaries' attack strategies. Also explored how advanced techniques like Fast Flux and User-Agent strings are used by attackers to evade detection.</p>  
 <br />
 <br />
-External Connections to VPN:  <br/>
-<img src="https://i.imgur.com/fK9H4qp.jpeg" height="80%" width="80%" alt="External Connections to VPN"/>
-<p> Created a diagram to show external devices and servers connecting to the vpn</p>
+Cyber Kill Chain:  <br/>
+<img src="https://i.imgur.com/7w6Ib1z.jpeg" height="80%" width="80%" />
+<p>Learned the phases of the Cyber Kill Chain, a framework used to understand and defend against cyber attacks such as ransomware, breaches, and APTs. Explored each stage of an attack, from reconnaissance and weaponization to delivery, exploitation, and command and control (C2). Gained insights into techniques like phishing, USB drops, and zero-day exploits, as well as how attackers maintain persistence and move laterally through networks. Learned how defenders can recognize and disrupt attacks at various stages to prevent adversaries from achieving their objectives.</p>
 <br />
 <br />
 <br />

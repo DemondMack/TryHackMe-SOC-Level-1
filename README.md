@@ -75,10 +75,11 @@ CTI Tools:  <br/>
 Developed skills in YARA, creating rules for malware detection through pattern matching and integrating it with tools like Cuckoo Sandbox. Additionally, explored key CTI platforms such as OpenCTI and MISP for managing, analyzing, and sharing threat intelligence. These platforms integrate with tools like TheHive and leverage frameworks like MITRE ATT&CK to support malware analysis and threat investigations across trusted communities.</p>
 
 <h2>Network Security and Traffic Analysis:</h2>
-<br />
-Windows Server seperated from VPC:  <br/>
-<img src="https://i.imgur.com/o2grXTy.jpeg" height="80%" width="80%" />
-<p>Deployed a Windows Server 2022 on Vultr using the shared CPU option. The server was set up without being part of the Virtual Private Cloud (VPC) to isolate it from other critical infrastructure. Configured the server and verified Remote Desktop Protocol (RDP) access to ensure it's exposed to the internet. The server will start generating logs for future analysis of unsuccessful login attempts.</p>
+
+
+Snort:  <br/>
+<img src="https://i.imgur.com/2G7j9vD.jpeg" height="50%" width="50%" />
+<p>I used Snort to analyze network traffic, detect ICMP packets, and apply custom rules for threat detection. By running Snort in Sniffer, Logger, and IDS/IPS modes, I monitored live traffic, generated alerts, and logged packets for deeper analysis, demonstrating its key functionality in identifying and preventing malicious activity in a network environment.</p>
 <br />
 <br />
 <br />

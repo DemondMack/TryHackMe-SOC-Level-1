@@ -118,19 +118,13 @@ Sysmon:  <br/>
 <p>I used Sysmon to monitor key events like Process Creation (Event ID 1), Network Connection (Event ID 3), Image Load (Event ID 7), and others to detect anomalies such as suspicious processes, DLL injection, and unauthorized access attempts. By leveraging Sysmon with well-configured rulesets, I filtered out noise and focused on actionable alerts, forwarding them to SIEM for further analysis and investigation.</p>
 <br />
 <br />
-<br />
-Alert & Dashboard creation for SSH activity:  <br/>
-<img src="https://i.imgur.com/Pe2DPyq.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/9TMIaOU.jpeg" height="80%" width="80%" />
-<p>Ingested logs from the SSH server into Elasticsearch and queried for brute force activity by filtering logs based on agent name, user, and source IP to identify failed authentication attempts. Saved the search as "SSH Failed Activity" and created an alert for brute force attempts, setting thresholds to trigger the alert when more than five failed login attempts occur within five minutes. Additionally, created a dashboard in Elasticsearch Maps to visualize the geographic source of these attempts using the source IP’s geolocation. Duplicated the dashboard to track successful SSH authentication attempts. This setup allows for both alerting on brute force activity and monitoring the source of the attacks in real time.After successfully ingesting logs from our SSH server into the Elasticsearch instance, the next step was to do the same for the RDP server. By filtering for event ID 4625, which represents failed login attempts, we identified multiple failed authentications. Key fields such as source IP and username were added to the table for detailed monitoring. A saved search, "RDP Failed Activity," was created to track these events.
-
-To further strengthen monitoring, an alert for RDP brute force attempts was created, similar to the SSH brute force alert. This alert was configured to trigger after five failed login attempts within five minutes. Finally, a dashboard was developed for visualization, allowing for easy tracking of where these attacks are originating.
-This process emphasizes the importance of securing exposed services such as SSH and RDP by ensuring strong passwords, multi-factor authentication (MFA), and limited access, as they are prime targets for brute force attacks.</p>
-
+osquery:  <br/>
+<img src="https://i.imgur.com/OxQIAkk.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/RWqfQHF.jpeg" height="80%" width="80%" />
+<p> I used Osquery's interactive mode to query the system, exploring tables and schemas, filtering results with SQL queries, and joining tables to gather specific insights on processes, users, and other system behaviors. This flexible querying aids in incident response and threat hunting tasks.</p>
 <br />
 <br />
-<br />
-Attack Diagram: <br/>
+Wazuh: <br/>
 <img src="https://i.imgur.com/5z9BUMl.jpeg" height="80%" width="80%" />
 <img src="https://i.imgur.com/cHHsWah.jpeg" height="80%" width="80%" />
 <img src="https://i.imgur.com/BpgyWXU.jpeg" height="80%" width="80%" />

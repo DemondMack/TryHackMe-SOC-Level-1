@@ -53,9 +53,16 @@ Cyber Kill Chain:  <br/>
 <br />
 <br />
 MITRE ATT&CK: <br/>
-<img src="https://i.imgur.com/2k5QlAc.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/U12b95Q.jpeg" height="80%" width="80%" />
 
 <p>Gained an understanding of the MITRE Corporation’s cybersecurity contributions, including the ATT&CK® framework, which maps adversary TTPs (Tactics, Techniques, and Procedures) to real-world attacks. Explored additional MITRE resources such as the Cyber Analytics Repository (CAR), ENGAGE for adversary deception, and D3FEND for mapping countermeasures. Learned how these tools help defenders detect and respond to threats, simulate adversary behavior, and improve security postures through threat-informed defense strategies.</p>
+
+<h2>Threat Intelligence:</h2>
+
+
+Cyber Threat Intel Process: <br/>
+<img src="https://i.imgur.com/0fHt5Xc.jpeg" height="80%" width="80%" />
+<p>Learned the fundamentals of Cyber Threat Intelligence (CTI), including the collection, processing, and analysis of data to identify adversaries, their tactics, and indicators of compromise. Explored the four main types of threat intelligence—strategic, technical, tactical, and operational—used to inform security teams and enhance decision-making. Gained insights into the CTI lifecycle, from defining objectives and collecting data to processing, analyzing, and disseminating actionable intelligence to stakeholders. Also reviewed industry standards and frameworks such as MITRE ATT&CK, STIX, and the Cyber Kill Chain for organizing and sharing threat intelligence.</p>
 <br />
 <br />
 <br />

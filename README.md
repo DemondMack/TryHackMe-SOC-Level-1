@@ -83,13 +83,18 @@ Wireshark:  <br/>
 <p>In Wireshark, I used the Statistics menu to analyze traffic patterns and key details like resolved addresses, protocol hierarchy, conversations, and endpoints to identify significant network events. By applying capture and display filters, I filtered traffic based on IP, TCP, UDP, HTTP, and DNS to isolate relevant packets. Advanced filters such as contains, matches, and in were used to refine searches for specific strings, ports, and packet types. I also utilized features like bookmarks, filter buttons, and profiles for efficient reuse of complex filters during network traffic investigations.</p>
 <br />
 <br />
-
-
 Snort:  <br/>
 <img src="https://i.imgur.com/2G7j9vD.jpeg" height="50%" width="50%" />
 <p>I used Snort to analyze network traffic, detect ICMP packets, and apply custom rules for threat detection. By running Snort in Sniffer, Logger, and IDS/IPS modes, I monitored live traffic, generated alerts, and logged packets for deeper analysis, demonstrating its key functionality in identifying and preventing malicious activity in a network environment.</p>
 <br />
 <br />
+Zeek:  <br/>
+<img src="https://i.imgur.com/TPvb4Md.jpeg" height="50%" width="50%" />
+<img src="https://i.imgur.com/VnCltZ3.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/g710ZHf.jpeg" height="80%" width="80%" />
+<p>I utilized Zeek as a powerful network monitoring tool to analyze network traffic and generate detailed logs for security investigations. By processing pcap files and using Zeek's logging capabilities, I was able to gain deep visibility into network activity, focusing on identifying anomalies, protocol usage, and traffic patterns. I leveraged Zeek's extensive logging, such as connection and protocol-specific logs, to investigate potential security incidents. Additionally, I utilized command-line tools like zeek-cut to extract relevant data from logs and applied custom scripts to automate event correlation and streamline my analysis process.</p>
+
+
 
 
 

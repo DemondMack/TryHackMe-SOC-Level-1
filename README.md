@@ -95,19 +95,13 @@ Zeek:  <br/>
 <img src="https://i.imgur.com/VnCltZ3.jpeg" height="80%" width="80%" />
 <img src="https://i.imgur.com/g710ZHf.jpeg" height="80%" width="80%" />
 <p>I utilized Zeek as a powerful network monitoring tool to analyze network traffic and generate detailed logs for security investigations. By processing pcap files and using Zeek's logging capabilities, I was able to gain deep visibility into network activity, focusing on identifying anomalies, protocol usage, and traffic patterns. I leveraged Zeek's extensive logging, such as connection and protocol-specific logs, to investigate potential security incidents. Additionally, I utilized command-line tools like zeek-cut to extract relevant data from logs and applied custom scripts to automate event correlation and streamline my analysis process.</p>
-
-
-
-
-
-
 <br />
 <br />
-Sysmon installation:  <br/>
-<img src="https://i.imgur.com/MlnUpcj.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/KcM0yLC.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/NLHMqsW.jpeg" height="80%" width="80%" />
-<p>Installed and configured Sysmon on the Windows Server. Downloaded Sysmon from Microsoft Learn and retrieved a popular configuration file from GitHub. Using PowerShell, installed Sysmon as a service and confirmed its successful setup by checking the Windows Event Viewer for Sysmon logs. Verified that Sysmon was capturing network connections and generating logs for further monitoring.</p>
+Tshark:  <br/>
+<img src="https://i.imgur.com/SfFiTYH.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/mGw0SUS.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/NJ6USna.jpeg" height="80%" width="80%" />
+<p>I used TShark, the command-line version of Wireshark, to analyze network traffic by filtering, capturing, and processing packets. TShark's flexibility allowed me to perform in-depth analysis and automate tasks via command-line tools like capinfos, grep, and cut. I leveraged capture and display filters for live and post-capture analysis, using the -f parameter for capture filters and -Y for display filters to narrow down traffic efficiently. Additionally, I utilized options such as -r to read pcap files, -w to write output, and -x for detailed hex and ASCII views of packets. TShark provided a streamlined, efficient way to analyze packets and automate repetitive tasks in network investigations.</p>
 <br />
 <br />
 <br />

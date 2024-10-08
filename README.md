@@ -181,7 +181,9 @@ Velociraptor: <br/>
 <img src="https://i.imgur.com/7BuuE6X.jpeg" height="80%" width="80%" />
 <p>Velociraptor is an open-source endpoint monitoring and forensics tool used for efficient incident response and artifact collection. I deployed it to manage server-client setups, interact with endpoints, and run VQL queries for system analysis and vulnerability detection. Its powerful VFS and query capabilities made it essential for real-time forensic investigations and monitoring.</p>
 
-<br />
+<h2>Phishing:</h2>
+
+
 Suspicious activity dashboard: <br/>
 <img src="https://i.imgur.com/VLRO2zS.jpeg" height="80%" width="80%" />
 <p>I created an alert in Elastic for Mythic C2 activity by querying logs for our service host executable and correlating Sysmon event codes. First, I searched for process creation events (event code 1) and extracted the SHA-256 hash and original file name (Apollo.exe). Then, I used these fields to build a query and alert that triggers on process creation involving the Apollo agent. Finally, I created a custom dashboard that monitors suspicious activity, including process creation events for PowerShell and CMD, network connections, and Defender being disabled, offering at-a-glance insights into potentially malicious activity.</p>

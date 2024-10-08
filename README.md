@@ -155,9 +155,12 @@ Autopsy: <br/>
 <img src="https://i.imgur.com/TjtpQTB.jpeg" height="50%" width="50%" />
 <p>Autopsy is an open-source digital forensics tool used to analyze digital media and mobile devices. I utilized it to open case files, configure ingest modules, extract artifacts, and generate reports, allowing for efficient forensic analysis and data retrieval from disk images.</p>
 <br />
-File Downloaded from host: <br/>
-<img src="https://i.imgur.com/Ry8Qbqk.jpeg" height="80%" width="80%" />
-<p>I deployed a Mythic C2 server using Vultr and configured it with Docker and Kali Linux. The attack involved brute forcing an RDP login on a Windows server, performing discovery commands, disabling Windows Defender, and executing a Mythic agent generated with a C2 profile. The agent was downloaded via PowerShell, establishing a C2 connection. Using the active session, I exfiltrated a fake password file (passwords.txt) from the Windows server. This process demonstrated the complete attack path, from initial access to exfiltration, using Mythic C2 and Kali Linux.</p>
+<br />
+RedLine: <br/>
+<img src="https://i.imgur.com/fW4V8Yc.jpeg" height="50%" width="50%" />
+<img src="https://i.imgur.com/gwVqjfc.jpeg" height="50%" width="50%" />
+<img src="https://i.imgur.com/QSTDHpS.jpeg" height="50%" width="50%" />
+<p>Redline is a memory and disk analysis tool for quickly assessing compromised systems. It provides a high-level view of processes, registry data, network info, and browser history. I used the Standard Collector method to gather key forensic data and analyze potential threats, leveraging its interface to quickly identify indicators of compromise during incident response.</p>
 <br />
 <br />
 The next steps in this project is the investigation: <br/>

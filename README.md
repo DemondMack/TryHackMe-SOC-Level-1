@@ -133,9 +133,11 @@ Wazuh: <br/>
 <h2>Security Information and Event Management:</h2>
 
 
-Mythic Server Intialization: <br/>
-<img src="https://i.imgur.com/F70KHGl.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/6tEEO0V.jpeg" height="80%" width="80%" />
+ELK Stack: <br/>
+<img src="https://i.imgur.com/tF6nIEA.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/oQ9nMhp.jpeg" height="80%" width="80%" />
+<p>I used the ELK stack (Elasticsearch, Logstash, Kibana) to analyze VPN logs, identifying anomalies like failed login attempts and unauthorized access. Using Kibana’s Discover tab and KQL, I filtered and searched logs by user, IP, and time. I also created visualizations to highlight patterns, such as failed connections from specific countries, improving my ability to investigate and monitor network security events efficiently.</p>
+<br />
 <br />
 
 Brute Force process: <br/>

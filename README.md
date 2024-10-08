@@ -143,10 +143,12 @@ Splunk: <br/>
 <img src="https://i.imgur.com/JeCduHz.jpeg" height="70%" width="70%" />
 <img src="https://i.imgur.com/OZqwQ34.jpeg" height="70%" width="70%" />
 <img src="https://i.imgur.com/q8RDVy0.jpeg" height="70%" width="70%" />
-<p>I used Splunk to investigate a cyberattack, tracing the attacker’s activities through the Cyber Kill Chain. By analyzing logs from IIS, Suricata, and Sysmon, I identified reconnaissance, brute-force attacks, exploitation, and installation of malicious files. Leveraging OSINT tools like VirusTotal and Robtex, I uncovered attacker infrastructure and linked it to malicious files, mapping the attack’s progression and identifying key indicators of compromise.</p>
-<br />
-<br />
-C2 connection Established: <br/>
+<p>I used Splunk to investigate a cyber attack, tracing the attacker’s activities through the Cyber Kill Chain. By analyzing logs from IIS, Suricata, and Sysmon, I identified reconnaissance, brute-force attacks, exploitation, and installation of malicious files. Leveraging OSINT tools like VirusTotal and Robtex, I uncovered attacker infrastructure and linked it to malicious files, mapping the attack’s progression and identifying key indicators of compromise.</p>
+
+<h2>Digital Forensics and Incident Response:</h2>
+
+
+
 <img src="https://i.imgur.com/OBrvihs.jpeg" height="80%" width="80%" />
 <br />
 File Downloaded from host: <br/>

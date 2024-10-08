@@ -163,7 +163,11 @@ RedLine: <br/>
 <p>Redline is a memory and disk analysis tool for quickly assessing compromised systems. It provides a high-level view of processes, registry data, network info, and browser history. I used the Standard Collector method to gather key forensic data and analyze potential threats, leveraging its interface to quickly identify indicators of compromise during incident response.</p>
 <br />
 <br />
-The next steps in this project is the investigation: <br/>
+Kape: <br/>
+<img src="https://i.imgur.com/Dg3OaLo.jpeg" height="25%" width="25%" />
+<img src="https://i.imgur.com/a1XMtlp.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/KSR9Nd1.jpeg" height="80%" width="80%" />
+<p>KAPE streamlines forensic artifact collection and processing, allowing for rapid analysis during incident response. It efficiently gathers and processes key data like registry hives and Prefetch files from live systems and storage devices. By configuring custom Targets and Modules, I quickly extracted evidence to understand system activity, using both the command-line and GUI versions for comprehensive triage and analysis.</p>
 <br />
 <br />
 <br />

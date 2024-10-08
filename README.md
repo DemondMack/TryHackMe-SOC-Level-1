@@ -187,9 +187,13 @@ Velociraptor: <br/>
 MessageHeader: <br/>
 <img src="https://i.imgur.com/72R6QsN.jpeg" height="80%" width="80%" />
 <p>I used Messageheader to analyze the phishing email's headers. By pasting the raw header into the tool, I quickly obtained details about the sender's IP, email origin, and any suspicious elements, helping me verify if the email was legitimate or part of a phishing attack.</p>
-
-
-<p>I created an alert in Elastic for Mythic C2 activity by querying logs for our service host executable and correlating Sysmon event codes. First, I searched for process creation events (event code 1) and extracted the SHA-256 hash and original file name (Apollo.exe). Then, I used these fields to build a query and alert that triggers on process creation involving the Apollo agent. Finally, I created a custom dashboard that monitors suspicious activity, including process creation events for PowerShell and CMD, network connections, and Defender being disabled, offering at-a-glance insights into potentially malicious activity.</p>
+<br />
+<br />
+URL Extractor & CyberChef: <br/>
+<img src="https://i.imgur.com/7epUJfP.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/itpDv6p.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/vMCZiCT.jpeg" height="50%" width="50%" />
+<p>I used URL Extractor to pull URLs from a phishing email by copying the raw header into the tool, which extracted the embedded links. Afterward, I used CyberChef’s "Extract URLs" recipe to cross-check and further analyze the links, ensuring I captured all possible malicious URLs. This combination allowed me to verify and investigate the URLs efficiently, providing a more thorough analysis.</p>
 <br />
 <br />
 <br />

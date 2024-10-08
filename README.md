@@ -170,13 +170,17 @@ Kape: <br/>
 <p>KAPE streamlines forensic artifact collection and processing, allowing for rapid analysis during incident response. It efficiently gathers and processes key data like registry hives and Prefetch files from live systems and storage devices. By configuring custom Targets and Modules, I quickly extracted evidence to understand system activity, using both the command-line and GUI versions for comprehensive triage and analysis.</p>
 <br />
 <br />
+Volatility: <br/>
+<img src="https://i.imgur.com/P3cpTmE.jpeg" height="50%" width="50%" />
+<p>Volatility is a powerful, open-source memory forensics tool commonly used by malware analysts and SOC teams to analyze memory dumps. It supports multiple operating systems, including Windows, Linux, and macOS, and allows analysts to extract critical system artifacts from memory, offering deep visibility into the runtime state of a system. I used Volatility to investigate various processes, network connections, and DLLs, utilizing plugins like pslist, malfind, and yarascan to detect suspicious activity and potential malware. The tool is essential for identifying advanced evasion techniques, such as SSDT hooks and malicious drivers, during memory forensics investigations.</p>
 <br />
-Query for Process Creation(event code:1) & Original file name(Apollo.exe): <br/>
-<img src="https://i.imgur.com/L80hlDC.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/77UWFgc.jpeg" height="80%" width="80%" />
 <br />
-Alert created for Mythic/Apollo agent: <br/>
-<img src="https://i.imgur.com/x9HsLVg.jpeg" height="80%" width="80%" />
+Velociraptor: <br/>
+<img src="https://i.imgur.com/zCot4EL.jpeg" height="25%" width="25%" />
+<img src="https://i.imgur.com/T3qZfjO.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/7BuuE6X.jpeg" height="80%" width="80%" />
+<p>Velociraptor is an open-source endpoint monitoring and forensics tool used for efficient incident response and artifact collection. I deployed it to manage server-client setups, interact with endpoints, and run VQL queries for system analysis and vulnerability detection. Its powerful VFS and query capabilities made it essential for real-time forensic investigations and monitoring.</p>
+
 <br />
 Suspicious activity dashboard: <br/>
 <img src="https://i.imgur.com/VLRO2zS.jpeg" height="80%" width="80%" />

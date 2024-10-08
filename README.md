@@ -134,15 +134,17 @@ Wazuh: <br/>
 
 
 ELK Stack: <br/>
-<img src="https://i.imgur.com/tF6nIEA.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/oQ9nMhp.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/tF6nIEA.jpeg" height="60%" width="60%" />
+<img src="https://i.imgur.com/oQ9nMhp.jpeg" height="70%" width="70%" />
 <p>I used the ELK stack (Elasticsearch, Logstash, Kibana) to analyze VPN logs, identifying anomalies like failed login attempts and unauthorized access. Using Kibana’s Discover tab and KQL, I filtered and searched logs by user, IP, and time. I also created visualizations to highlight patterns, such as failed connections from specific countries, improving my ability to investigate and monitor network security events efficiently.</p>
 <br />
 <br />
-
-Brute Force process: <br/>
-<img src="https://i.imgur.com/pDtFS5s.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/fBvF9hv.jpeg" height="80%" width="80%" />
+Splunk: <br/>
+<img src="https://i.imgur.com/JeCduHz.jpeg" height="70%" width="70%" />
+<img src="https://i.imgur.com/OZqwQ34.jpeg" height="70%" width="70%" />
+<img src="https://i.imgur.com/q8RDVy0.jpeg" height="70%" width="70%" />
+<p>I used Splunk to investigate a cyberattack, tracing the attacker’s activities through the Cyber Kill Chain. By analyzing logs from IIS, Suricata, and Sysmon, I identified reconnaissance, brute-force attacks, exploitation, and installation of malicious files. Leveraging OSINT tools like VirusTotal and Robtex, I uncovered attacker infrastructure and linked it to malicious files, mapping the attack’s progression and identifying key indicators of compromise.</p>
+<br />
 <br />
 C2 connection Established: <br/>
 <img src="https://i.imgur.com/OBrvihs.jpeg" height="80%" width="80%" />

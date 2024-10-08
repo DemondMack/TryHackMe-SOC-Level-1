@@ -148,8 +148,12 @@ Splunk: <br/>
 <h2>Digital Forensics and Incident Response:</h2>
 
 
-
-<img src="https://i.imgur.com/OBrvihs.jpeg" height="80%" width="80%" />
+Autopsy: <br/>
+<img src="https://i.imgur.com/8qALBAt.jpeg" height="30%" width="30%" />
+<img src="https://i.imgur.com/aTLBOf5.jpeg" height="50%" width="50%" />
+<img src="https://i.imgur.com/2y6E0p0.jpeg" height="50%" width="50%" />
+<img src="https://i.imgur.com/TjtpQTB.jpeg" height="50%" width="50%" />
+<p>Autopsy is an open-source digital forensics tool used to analyze digital media and mobile devices. I utilized it to open case files, configure ingest modules, extract artifacts, and generate reports, allowing for efficient forensic analysis and data retrieval from disk images.</p>
 <br />
 File Downloaded from host: <br/>
 <img src="https://i.imgur.com/Ry8Qbqk.jpeg" height="80%" width="80%" />

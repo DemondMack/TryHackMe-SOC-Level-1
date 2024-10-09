@@ -196,11 +196,10 @@ URL Extractor & CyberChef: <br/>
 <p>I used URL Extractor to pull URLs from a phishing email by copying the raw header into the tool, which extracted the embedded links. Afterward, I used CyberChef’s "Extract URLs" recipe to cross-check and further analyze the links, ensuring I captured all possible malicious URLs. This combination allowed me to verify and investigate the URLs efficiently, providing a more thorough analysis.</p>
 <br />
 <br />
-<br />
-Ticketing system: <br/>
-<img src="https://i.imgur.com/YAkU8Yr.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/R7YriON.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/e2xwm2E.jpeg" height="80%" width="80%" />
+CMD(For hash) & VirusTotal: <br/>
+<img src="https://i.imgur.com/ZM19tNv.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/zvpghaS.jpeg" height="60%" width="60%" />
+<p>After obtaining the email attachment, I generated it's hash value using the command line and checked the file's reputation using tools like VirusTotal, which analyzes suspicious files and URLs for malware and shares findings with the security community.</p>
 <br />
 Elastic Defender: <br/>
 <img src="https://i.imgur.com/jYip6R0.jpeg" height="80%" width="80%" />

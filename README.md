@@ -201,20 +201,23 @@ CMD(For hash) & VirusTotal: <br/>
 <img src="https://i.imgur.com/zvpghaS.jpeg" height="60%" width="60%" />
 <p>After obtaining the email attachment, I generated it's hash value using the command line and checked the file's reputation using tools like VirusTotal, which analyzes suspicious files and URLs for malware and shares findings with the security community.</p>
 <br />
-Elastic Defender: <br/>
-<img src="https://i.imgur.com/jYip6R0.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/IhA8ukM.jpeg" height="80%" width="80%" />
-<img src="https://i.imgur.com/htj8pnY.jpeg" height="80%" width="80%" />
-<p>The setup process started with osTicket, where a Windows server was deployed, and XAMPP was installed to host the osTicket instance. Configuration included editing Apache and PHP settings, creating databases, and setting firewall rules for web server security. osTicket was then integrated with Elasticsearch using an API key, enabling automatic ticket generation for alerts.
+<br />
+Any.Run & Hybrid Analysis: <br/>
+<img src="https://i.imgur.com/M2F3LPa.jpeg" height="60%" width="60%" />
+<img src="https://i.imgur.com/EA53fcm.jpeg" height="60%" width="60%" />
+<p>Online malware sandboxes like Any.Run and Hybrid Analysis were used to upload and analyze a suspicious email attachment. These tools provided insights into the attachment’s behavior, such as its communication with URLs, downloaded payloads, and persistence mechanisms, helping to identify Indicators of Compromise (IOCs) without requiring advanced malware analysis skills.</p>
+<br />
+<br />
+PhishTool: <br/>
+<img src="https://i.imgur.com/fqYLcGW.jpeg" height="60%" width="60%" />
+<p>PhishTool was used to automate the analysis of a phishing email. By uploading the email, the tool provided detailed insights such as email metadata, sender information, and attachments. It can also be connected to VirusTotal for additional analysis, streamlining the phishing response process.</p>
 
-Next, the investigation of SSH brute force attacks was demonstrated by querying Elasticsearch for specific IPs and users involved in the attacks. Tools like AbuseIPDB and GreyNoise were used to assess the threat level of the IPs. Similar methodologies were applied to RDP brute force investigations, where IP reputation was checked, and failed/successful login attempts were analyzed.
 
-The investigation of Mythic C2 focused on process creation and network connections. Sysmon telemetry and process GUIDs were used to track C2 agent behavior, file creations, and outbound connections, particularly for the agent named servicehost.exe. Powershell commands and network connections were analyzed to understand the C2 activity timeline.
 
-Lastly, Elastic Defend (Elastic's EDR solution) was installed to monitor and protect endpoints. The tool blocked malicious files like mydfir-30.exe, provided detailed telemetry (file hashes, paths, etc.), and isolated compromised hosts. Elastic Defend's features, such as real-time detection and prevention, were highlighted, along with host isolation.</p>
+
 <br/>
 <br/>
-<b>Conclusion<b> <br />
-<p>Throughout this project, I demonstrated a range of essential SOC analyst skills, including setting up and managing tools for logging, monitoring, and incident response. By integrating ELK with OS Ticket, I created an efficient alert-to-ticketing system, streamlining incident management. I also successfully orchestrated a combination of host-based and network telemetry monitoring to detect, analyze, and respond to potential threats. Overall, this project highlights my technical expertise in creating a comprehensive SOC environment, demonstrating strong investigative techniques, threat detection, and response capabilities essential for maintaining network security.</p>
+<h2>Conclusion:</h2>
+<p>The TryHackMe SOC Level 1 Labs allowed me to develop a deep understanding of various cybersecurity frameworks, threat intelligence techniques, network security, endpoint monitoring, and digital forensics. I learned how to analyze and respond to security events through hands-on experience with traffic analysis, endpoint security, SIEM platforms, and phishing detection. Additionally, I gained experience in threat hunting and malware analysis, applying this knowledge to real-world scenarios in incident response and phishing prevention. This journey has significantly enhanced my skills as a SOC analyst, preparing me for future challenges in cybersecurity.</p>
 
 

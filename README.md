@@ -217,6 +217,10 @@ PhishTool: <br/>
 
 <br/>
 <br/>
+<img src="https://i.imgur.com/b4wtrSH.jpeg" height="80%" width="80%" />
+<img src="https://i.imgur.com/VirfkFK.jpeg" height="80%" width="80%" />
+<br/>
+<br/>
 <b>Conclusion<b> <br />
 <p>The TryHackMe SOC Level 1 Labs allowed me to develop a deep understanding of various cybersecurity frameworks, threat intelligence techniques, network security, endpoint monitoring, and digital forensics. I learned how to analyze and respond to security events through hands-on experience with traffic analysis, endpoint security, SIEM platforms, and phishing detection. Additionally, I gained experience in threat hunting and malware analysis, applying this knowledge to real-world scenarios in incident response and phishing prevention. This journey has significantly enhanced my skills as a SOC analyst, preparing me for future challenges in cybersecurity.</p>
 

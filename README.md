@@ -217,6 +217,7 @@ PhishTool: <br/>
 
 <br/>
 <br/>
+Badges Earned: <br/>
 <img src="https://i.imgur.com/b4wtrSH.jpeg" height="80%" width="80%" />
 <img src="https://i.imgur.com/VirfkFK.jpeg" height="80%" width="80%" />
 <br/>
